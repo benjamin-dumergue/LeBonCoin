@@ -20,7 +20,7 @@
     "@strapi/plugin-users-permissions": "4.25.11",
     "@strapi/provider-upload-cloudinary": "^5.37.1",
     "@strapi/strapi": "4.25.11",
-    "pg": "8.8.0",
+    "pg": "^8.19.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
@@ -28,8 +28,8 @@
   },
   "devDependencies": {},
   "engines": {
-    "node": ">=18.0.0 <=20.x.x",
-    "npm": ">=8.5.5"
+    "node": "20.0.0",
+    "npm": "8.5.5"
   },
   "strapi": {
     "uuid": "8efec2aa-eb74-4165-9f1f-cfabe4087eb4"
