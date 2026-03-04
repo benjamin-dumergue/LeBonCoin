@@ -58,3 +58,5 @@ module.exports = createCoreController("api::offer.offer", ({ strapi }) => ({
     }
   },
 }));
+
+const petitLavabo = "HAHA";
